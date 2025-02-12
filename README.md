@@ -24,7 +24,7 @@ I love solving complex problems, optimizing system performance, and contributing
 
 **Frameworks:** `React` `NumPy` `PyTorch`
 
-**Technologies & Tools:** `AWS` `Git`
+**Tools:** `AWS` `Git` `MySQL` `Arduino IDE`
 
 ---
 
