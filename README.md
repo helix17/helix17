@@ -33,13 +33,13 @@ I love solving complex problems, optimizing system performance, and contributing
 
 ### 📌 Featured Projects
 
-- **[Optimizing Wind Farm Placement](https://github.com/helix17/Optimizing-Wind-Farm-Placement)**  
+- **[Optimizing Wind Farm Placement](https://github.com/helix17/CA-potential-wind-capacity-analysis)**  
   *Data analysis project identifying optimal wind farm locations using geospatial data processing.*
 
-- **[SRGAN Enhancement with PatchGAN](https://github.com/helix17/SRGAN-PatchGAN-Enhancement)**  
+- **[SRGAN Enhancement with PatchGAN](https://github.com/helix17/Patch-SRGAN-KD)**  
   *Super-resolution model fine-tuned with PatchGAN for improved image quality using the DIV2K dataset.*
 
-- **[IoT-Based Contactless Elevator System](https://github.com/helix17/IoT-Contactless-Elevator)**  
+- **[IoT-Based Contactless Elevator System](https://github.com/helix17/)**  
   *Developed an Arduino-powered contactless keypad using ultrasonic sensors for improved hygiene and accessibility.*
 
 ---
