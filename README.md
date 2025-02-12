@@ -20,21 +20,18 @@ I love solving complex problems, optimizing system performance, and contributing
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-`C++` `Python` `SQL` `JavaScript`
+**Languages:** `C++` `Python` `SQL` `JavaScript` `HTML` `CSS`
 
-**Frameworks & Tools:**  
-`AWS` `React` `Git`
+**Frameworks:** `React` `NumPy` `PyTorch`
 
-**Technologies:**  
-`Cloud Computing` `Systems Programming` `Machine Learning` `Embedded Systems`
+**Technologies & Tools:** `AWS` `Git`
 
 ---
 
 ### 📌 Featured Projects
 
 - **[Optimizing Wind Farm Placement](https://github.com/helix17/CA-potential-wind-capacity-analysis)**  
-  *Data analysis project identifying optimal wind farm locations using geospatial data processing.*
+  *Data analysis project identifying optimal wind farm locations using geospatial data processing and [visualizing potential windfarms](https://helix17.github.io/CA-potential-wind-capacity-analysis/)*
 
 - **[SRGAN Enhancement with PatchGAN](https://github.com/helix17/Patch-SRGAN-KD)**  
   *Super-resolution model fine-tuned with PatchGAN for improved image quality using the DIV2K dataset.*
