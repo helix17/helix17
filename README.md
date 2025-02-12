@@ -31,14 +31,6 @@ I love solving complex problems, optimizing system performance, and contributing
 
 ---
 
-### 📈 GitHub Stats
-
-![Hemachandran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helix17&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helix17&layout=compact&theme=radical)
-
----
-
 ### 📌 Featured Projects
 
 - **[Optimizing Wind Farm Placement](https://github.com/helix17/Optimizing-Wind-Farm-Placement)**  
@@ -70,4 +62,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### 📈 GitHub Stats
+
+![Hemachandran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helix17&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helix17&layout=compact&theme=radical)
+
+---
 -->
